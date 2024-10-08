@@ -1,3 +1,4 @@
+
 #include <studio.h>
 int main() {
     int matrix[3][4] = {
@@ -14,3 +15,4 @@ int main() {
     }
     return 0;
 }
+    
